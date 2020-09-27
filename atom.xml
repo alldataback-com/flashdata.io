@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>活力資料救援</title>
-  <icon>https://flashdata.io/icon.png</icon>
+  
   <subtitle>資料救援熱線：+86 18620923827(whatsapp wechat)</subtitle>
   <link href="https://flashdata.io/atom.xml" rel="self"/>
   
@@ -23,19 +23,18 @@
     <published>2020-09-01T04:18:51.000Z</published>
     <updated>2020-09-02T14:20:09.500Z</updated>
     
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"></blockquote><p>从合作数据恢复公司手里接到这个金士顿优盘,外观看上去还好,没感觉到有什么特别或者之前处理过的. 接电脑检测马上弹出窗口和提示格式化. 设备信息显示Kingston Data TravelerG3(4.0MB, USB). 显示4MB容量.<br>拆出FLASH后发现这个优盘之前有焊过. 可能之前有人拆过芯片,尝试恢复或者加焊之类的操作.</p><img src="https://www.rflashdata.com/wp-content/uploads/2020/09/kingston-flash-reecovery.jpeg" class="" title="金士頓usb手指資料救援"><br /><p>在晶片下面和USB 4 pins最為明顯. 可見這個隨身碟之前有嘗試過恢復資料但不成功才送到我們手上. </p><img src="https://www.rflashdata.com/wp-content/uploads/2020/09/kingston-flash-drive-recovery.jpeg" class="" title="金士頓usb flash資料救援"><br /><img src="https://www.rflashdata.com/wp-content/uploads/2020/09/ps2251-data-recovery-scaled.jpeg" class="" title="金士頓usb記憶體資料救援"><br /><blockquote class="blockquote-center"></blockquote><table>    <tr>        <td colspan="2">contact</td>     </tr>    <tr>        <td>資料救援熱線</td>         <td>+86 18620923827(whatsapp wechat)</td>    </tr>    <tr>        <td>更多案例</td>         <td>[資料救援案例](https://rflashdata.com)</td>       </tr></table>]]></content>
+    
     
       
       
-        
-        
     <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;
 
 
 
 &lt;/blockquote&gt;
 
-&lt;p&gt;从合作数据恢复公司手里接到这个金士顿优盘,外观看上去还好,没感觉到有什么特别或者之前处理过的. 接电脑检测马上弹出窗口和提示格式化.</summary>
-        
+&lt;p&gt;从合作数据恢复公司手里接到这个金士顿优盘,外观看上去还好,没感觉到有什么特别或者之前处理过的. 接电脑检测马上弹出窗口和提示格式化. 设备信息显示Kingsto</summary>
       
     
     
@@ -58,11 +57,11 @@
     <published>2020-08-31T14:38:10.000Z</published>
     <updated>2020-09-02T04:07:56.995Z</updated>
     
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">資料救援</blockquote><table>    <tr>        <td colspan="2">contact</td>     </tr>    <tr>        <td>資料救援熱線</td>         <td>+86 18620923827(whatsapp wechat)</td>    </tr>    <tr>        <td>更多案例</td>         <td>[資料救援案例](https://rflashdata.com)</td>       </tr></table>]]></content>
+    
     
       
       
-        
-        
     <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;
 資料救援
 
@@ -77,8 +76,7 @@
 
    &lt;/tr&gt;
     &lt;tr&gt;
- </summary>
-        
+  </summary>
       
     
     
